@@ -149,14 +149,14 @@ https://xn--d204s777hp28.cloudfronte.lat/zzzstream/xsports.m3u8
 #########################
 #  ⚽ CANAIS ESPN
 #########################
-#EXTINF:-1 group-title="Canais ESPN",ESPN Brasil
+#EXTINF:-1 group-title="Canais ESPN",ESPN
 https://xn--d204s777hp28.cloudfronte.lat/zzzstream/espn.m3u8
 #EXTINF:-1 group-title="Canais ESPN",ESPN 2
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/espn2.m3u8
 #EXTINF:-1 group-title="Canais ESPN",ESPN 3
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/espn3.m3u8
 #EXTINF:-1 group-title="Canais ESPN",ESPN 4
-https://xn--d204s777hp27.cloudfronte.lat/zzzstream/espn4.m3u8
+https://xn--d204s777hp28.cloudfronte.lat/zzzstream/espn4.m3u8
 #EXTINF:-1 group-title="Canais ESPN",ESPN 5
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/espn5.m3u8
 
