@@ -1,0 +1,269 @@
+#EXTM3U
+
+#########################
+# 📺 TV ABERTA - AO VIVO
+#########################
+#EXTINF:-1 group-title="TV Aberta",RedeTV
+https://xn--d204s777hp27.cloudfronte.lat/zzzstream/redetv.m3u8
+#EXTINF:-1 group-title="TV Aberta",SBT
+https://xn--d204s777hp27.cloudfronte.lat/zzzstream/sbt.m3u8
+#EXTINF:-1 group-title="TV Aberta",Record
+https://xn--d204s777hp27.cloudfronte.lat/zzzstream/record.m3u8
+#EXTINF:-1 group-title="TV Aberta",Rede Brasil
+https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w90841645.m3u8
+#EXTINF:-1 group-title="TV Aberta",Record Goiás
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+#EXTINF:-1 group-title="TV Aberta",SBT Interior
+https://live.tvinterior.com.br/hls/0/stream.m3u8
+#EXTINF:-1 group-title="TV Aberta",TV Conquista
+https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8
+#EXTINF:-1 group-title="TV Aberta",SBT SP
+https://aovivo.maissbt.com/channel_720.m3u8
+#EXTINF:-1 group-title="TV Aberta",TV Arapuan
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist_w138391738_b1596000.m3u8
+#EXTINF:-1 group-title="TV Aberta",RedeTV Rondônia
+https://5b33b873179a2.streamlock.net:1443/canal17/livestream/chunklist_w1352815607.m3u8
+#EXTINF:-1 group-title="TV Aberta",TV Guajará (SBT)
+https://video05.logicahost.com.br/tvguajara/tvguajara/chunklist_w1375860186.m3u8
+#EXTINF:-1 group-title="TV Aberta",TV Brasil
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 group-title="TV Aberta",Canal GOV
+https://canalgov-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 group-title="TV Aberta",NBR
+https://nbr-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 group-title="TV Aberta",TV Educação
+https://educacao-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 group-title="TV Aberta",TV Justiça
+https://tvjustica-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 group-title="TV Aberta",TV Câmara
+https://stream3.camara.leg.br/tv1/manifest.m3u8
+#EXTINF:-1 group-title="TV Aberta",TV Senado
+https://videos.senado.leg.br/live/tvsenado.m3u8
+
+#########################
+# 🎬 VARIEDADES
+#########################
+#EXTINF:-1 group-title="Variedades",TV Aberta HD
+https://br5093.streamingdevideo.com.br/tvaberto/tvaberto/chunklist_w261592239.m3u8
+#EXTINF:-1 group-title="Variedades",TV MAX Rio
+https://video09.logicahost.com.br/tvmax/tvmax/chunklist_w783173747.m3u8
+#EXTINF:-1 group-title="Variedades",Clouding TV
+https://video04.logicahost.com.br/cloudingtv/cloudingtv/chunklist_w620455724.m3u8
+#EXTINF:-1 group-title="Variedades",AWTV
+https://awtv.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Variedades",Caravana Play
+https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8
+#EXTINF:-1 group-title="Variedades",Wording TV
+https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w929251179.m3u8
+#EXTINF:-1 group-title="Variedades",TCM 10 HD
+https://live.tcm10.com.br/tcm10hd/stream.m3u8
+#EXTINF:-1 group-title="Variedades",TV Sonata
+https://video04.logicahost.com.br/isonata/isonata/chunklist_w403430450.m3u8
+#EXTINF:-1 group-title="Variedades",ISTV
+https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
+#EXTINF:-1 group-title="Variedades",Canal 29
+https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
+#EXTINF:-1 group-title="Variedades",TV Channel Network
+https://tvchannel.tvr.ovh/video28392/video28392/chunklist_w1887480966.m3u8
+#EXTINF:-1 group-title="Variedades",Plex TV
+https://meta.plex.tv/playlist.m3u8
+#EXTINF:-1 group-title="Variedades",Runtime Filmes
+https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 group-title="Variedades",Rakuten TV
+https://rakuten_tv_movies_channel/playlist.m3u8
+#EXTINF:-1 group-title="Variedades",RTP Internacional
+https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
+#EXTINF:-1 group-title="Variedades",TV Séries
+https://stmv2.painelvideocast.com.br/tvseries/tvseries/chunklist_w231537037.m3u8
+
+#########################
+# 🧸 DESENHOS
+#########################
+#EXTINF:-1 group-title="Desenhos",Retrô Cartoon
+https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1498384423.m3u8
+#EXTINF:-1 group-title="Desenhos",GLN TV
+https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8
+#EXTINF:-1 group-title="Desenhos",Gospel Cartoon
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1 group-title="Desenhos",Anime TV
+https://stmv2.painelvideocast.com.br/animetv/animetv/chunklist_w192051745.m3u8
+#EXTINF:-1 group-title="Desenhos",Cartoon Retro
+https://stmv2.painelvideocast.com.br/retrotv/retrotv/chunklist_w1054881628.m3u8
+#EXTINF:-1 group-title="Desenhos",Cartoon Network
+https://xn--d204s777hp28.cloudfronte.lat/zzzstream/cartoonnetwork.m3u8
+
+#########################
+# 🎥 FILMES
+#########################
+#EXTINF:-1 group-title="Filmes",Darkflix TV
+https://darkflix.play.cportal.com.br/live/live/1/stream.m3u8
+#EXTINF:-1 group-title="Filmes",Adrenalina Pura TV
+https://amg00740-sofa-amg00740c7-tcl-us-7126.playouts.now.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 group-title="Filmes",MyTime Movie
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 group-title="Filmes",Cine Trianon TV
+https://amogonetworx-grjngo-1-eu.plex.wurl.tv/4300.m3u8
+
+#########################
+#  🗞️ NOTÍCIAS
+#########################
+#EXTINF:-1 group-title="Notícias",CNN Brasil
+https://hplay.tv/augetv/12396547488/902.m3u8
+#EXTINF:-1 group-title="Notícias",Record NEWS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
+#EXTINF:-1 group-title="Notícias",TVL News
+https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/chunklist_w1619600536.m3u8
+#EXTINF:-1 group-title="Notícias",Jovem PAN News
+https://hplay.tv/augetv/12396547488/42.m3u8
+#EXTINF:-1 group-title="Notícias",GLOBO NEWS
+https://xn--d204s777hp28.cloudfronte.lat/zzzstream/globonews.m3u8
+
+#########################
+#  ⚽ ESPORTES
+#########################
+#EXTINF:-1 group-title="Esportes",Cazé TV
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 group-title="Esportes",RS NEWS Sports
+https://video07.logicahost.com.br/rssports01/rssports01/chunklist_w632053874.m3u8
+#EXTINF:-1 group-title="Esportes",SFT Combat
+https://hrm-sftc.otteravision.com/hrm/sftc/sftc_720p_high.m3u8
+#EXTINF:-1 group-title="Esportes",UFC Fight PASS
+https://xn--d204s777hp27.cloudfronte.lat/zzzstream/ufcfightpass.m3u8
+#EXTINF:-1 group-title="Esportes",Canal Combat
+https://xn--d204s777hp27.cloudfronte.lat/zzzstream/combate.m3u8
+#EXTINF:-1 group-title="Esportes",Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+#EXTINF:-1 group-title="Esportes",Auge Esportes
+https://video04.logicahost.com.br/augeesportes/augeesportes/chunklist_w432061694.m3u8
+#EXTINF:-1 group-title="Esportes",Unique Esportes
+https://pop.uniquetv.com.br/uniquesports1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Esportes",Racer Brasil
+https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Esportes",Play TV Horse
+https://video04.logicahost.com.br/playtvhorse/playtvhorse/chunklist_w1814062890.m3u8
+#EXTINF:-1 group-title="Esportes",BAND Sports
+https://xn--d204s777hp27.cloudfronte.lat/zzzstream/bandsports.m3u8
+#EXTINF:-1 group-title="Esportes",XSports
+https://xn--d204s777hp28.cloudfronte.lat/zzzstream/xsports.m3u8
+
+#########################
+#  ⚽ CANAIS ESPN
+#########################
+#EXTINF:-1 group-title="Canais ESPN",ESPN Brasil
+https://xn--d204s777hp27.cloudfronte.lat/zzzstream/espn.m3u8
+#EXTINF:-1 group-title="Canais ESPN",ESPN 2
+https://xn--d204s777hp27.cloudfronte.lat/zzzstream/espn2.m3u8
+#EXTINF:-1 group-title="Canais ESPN",ESPN 3
+https://xn--d204s777hp27.cloudfronte.lat/zzzstream/espn3.m3u8
+#EXTINF:-1 group-title="Canais ESPN",ESPN 4
+https://xn--d204s777hp27.cloudfronte.lat/zzzstream/espn4.m3u8
+#EXTINF:-1 group-title="Canais ESPN",ESPN 5
+https://xn--d204s777hp27.cloudfronte.lat/zzzstream/espn5.m3u8
+
+#########################
+#  ⚽ CANAIS SPORTV
+#########################
+#EXTINF:-1 group-title="Canais SporTV",SporTV 1
+https://xn--d204s777hp27.cloudfronte.lat/zzzstream/sportv.m3u8
+#EXTINF:-1 group-title="Canais SporTV",SporTV 2
+https://xn--d204s777hp27.cloudfronte.lat/zzzstream/sportv2.m3u8
+#EXTINF:-1 group-title="Canais SporTV",SporTV 3
+https://xn--d204s777hp27.cloudfronte.lat/zzzstream/sportv3.m3u8
+
+#########################
+#  ⚽ CANAIS PREMIERE
+#########################
+#EXTINF:-1 group-title="Canais Premiere",Premiere 1
+https://xn--d204s777hp27.cloudfronte.lat/zzzstream/premiere.m3u8
+#EXTINF:-1 group-title="Canais Premiere",Premiere 2
+https://xn--d204s777hp27.cloudfronte.lat/zzzstream/premiere2.m3u8
+#EXTINF:-1 group-title="Canais Premiere",Premiere 3
+https://xn--d204s777hp27.cloudfronte.lat/zzzstream/premiere3.m3u8
+#EXTINF:-1 group-title="Canais Premiere",Premiere 4
+https://xn--d204s777hp27.cloudfronte.lat/zzzstream/premiere4.m3u8
+#EXTINF:-1 group-title="Canais Premiere",Premiere 5
+https://xn--d204s777hp27.cloudfronte.lat/zzzstream/premiere5.m3u8
+#EXTINF:-1 group-title="Canais Premiere",Premiere 6
+https://xn--d204s777hp27.cloudfronte.lat/zzzstream/premiere6.m3u8
+#EXTINF:-1 group-title="Canais Premiere",Premiere 7
+https://xn--d204s777hp27.cloudfronte.lat/zzzstream/premiere7.m3u8
+
+#########################
+#  🎞️ CANAIS HBO
+#########################
+#EXTINF:-1 group-title="Canais HBO",HBO
+https://xn--d204s777hp27.cloudfronte.lat/zzzstream/hbo.m3u8
+#EXTINF:-1 group-title="Canais HBO",HBO 2
+https://xn--d204s777hp27.cloudfronte.lat/zzzstream/hbo2.m3u8
+#EXTINF:-1 group-title="Canais HBO",HBO Family
+https://xn--d204s777hp27.cloudfronte.lat/zzzstream/hbofamily.m3u8
+#EXTINF:-1 group-title="Canais HBO",HBO MUNDI
+https://xn--d204s777hp27.cloudfronte.lat/zzzstream/hbomundi.m3u8
+#EXTINF:-1 group-title="Canais HBO",HBO PLUS
+https://xn--d204s777hp27.cloudfronte.lat/zzzstream/hboplus.m3u8
+#EXTINF:-1 group-title="Canais HBO",HBO POP
+https://xn--d204s777hp27.cloudfronte.lat/zzzstream/hbopop.m3u8
+#EXTINF:-1 group-title="Canais HBO",HBO Signature
+https://xn--d204s777hp27.cloudfronte.lat/zzzstream/hbo.m3u8
+#EXTINF:-1 group-title="Canais HBO",HBO EXTREME
+https://xn--d204s777hp27.cloudfronte.lat/zzzstream/hboxtreme.m3u8
+
+#########################
+#  🎞️ CANAIS TELECINE
+#########################
+#EXTINF:-1 group-title="Canais Telecine",Telecine Action
+https://xn--d204s777hp27.cloudfronte.lat/zzzstream/telecineaction.m3u8
+#EXTINF:-1 group-title="Canais Telecine",Telecine Cult
+https://xn--d204s777hp27.cloudfronte.lat/zzzstream/telecinecult.m3u8
+#EXTINF:-1 group-title="Canais Telecine",Telecine Cult 2
+https://xn--d204s777hp27.cloudfronte.lat/zzzstream/telecinecult.m3u8
+#EXTINF:-1 group-title="Canais Telecine",Telecine FUN
+https://xn--d204s777hp27.cloudfronte.lat/zzzstream/telecinefun.m3u8
+#EXTINF:-1 group-title="Canais Telecine",Telecine Pipoca
+https://xn--d204s777hp27.cloudfronte.lat/zzzstream/telecinepipoca.m3u8
+#EXTINF:-1 group-title="Canais Telecine",Telecine Premium
+https://xn--d204s777hp27.cloudfronte.lat/zzzstream/telecinepremium.m3u8
+#EXTINF:-1 group-title="Canais Telecine",Telecine Touch
+https://xn--d204s777hp27.cloudfronte.lat/zzzstream/telecinetouch.m3u8
+
+#########################
+#  🎞️ CANAIS DE FILMES
+#########################
+#EXTINF:-1 group-title="Canais de Filmes",TNT
+https://xn--d204s777hp27.cloudfronte.lat/zzzstream/tnt.m3u8
+#EXTINF:-1 group-title="Canais de Filmes",TNT Séries
+https://xn--d204s777hp27.cloudfronte.lat/zzzstream/tntseries.m3u8
+#EXTINF:-1 group-title="Canais de Filmes",Canal Space
+https://xn--d204s777hp27.cloudfronte.lat/zzzstream/space.m3u8
+#EXTINF:-1 group-title="Canais de Filmes",MEGAPIX
+https://xn--d204s777hp27.cloudfronte.lat/zzzstream/megapix.m3u8
+#EXTINF:-1 group-title="Canais de Filmes",AMC
+https://xn--d204s777hp27.cloudfronte.lat/zzzstream/amc.m3u8
+#EXTINF:-1 group-title="Canais de Filmes",Studio Universal
+https://xn--d204s777hp27.cloudfronte.lat/zzzstream/studiouniversal.m3u8
+#EXTINF:-1 group-title="Canais de Filmes",CineMAX
+https://xn--d204s777hp27.cloudfronte.lat/zzzstream/cinemax.m3u8
+#EXTINF:-1 group-title="Canais de Filmes",AXN
+https://xn--d204s777hp28.cloudfronte.lat/zzzstream/axn.m3u8
+
+#########################
+#  🎞️ CANAIS DE MÚSICA
+#########################
+#EXTINF:-1 group-title="Canais de Música",BIS
+https://xn--d204s777hp28.cloudfronte.lat/zzzstream/bis.m3u8
+#EXTINF:-1 group-title="Canais de Música",MultiSHOW
+https://xn--d204s777hp28.cloudfronte.lat/zzzstream/multishow.m3u8
+#EXTINF:-1 group-title="Canais de Música",MTV
+https://xn--d204s777hp28.cloudfronte.lat/zzzstream/mtv.m3u8
+
+#########################
+#  🎞️ CANAIS VARIADOS 2.0
+#########################
+#EXTINF:-1 group-title="Canais Variados 2.0",Canal VIVA
+https://xn--d204s777hp28.cloudfronte.lat/zzzstream/viva.m3u8
+#EXTINF:-1 group-title="Canais Variados 2.0",HGTV
+https://xn--d204s777hp28.cloudfronte.lat/zzzstream/comedycentral.m3u8
+#EXTINF:-1 group-title="Canais Variados 2.0",Animal Planet
+https://xn--d204s777hp28.cloudfronte.lat/zzzstream/animalplanet.m3u8
+#EXTINF:-1 group-title="Canais Variados 2.0",TLC Discovery
+https://xn--d204s777hp28.cloudfronte.lat/zzzstream/tlc.m3u8
